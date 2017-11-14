@@ -18,3 +18,4 @@ Z:\Users\Administrator\My Documents\Visual Studio 2015\Projects\MicroDoc\MicroDo
 Z:\Users\Administrator\My Documents\Visual Studio 2015\Projects\MicroDoc\MicroDoc\obj\Debug\MicroDoc.csprojResolveAssemblyReference.cache
 Z:\Users\Administrator\My Documents\Visual Studio 2015\Projects\MicroDoc\MicroDoc\obj\Debug\MicroDoc.dll
 Z:\Users\Administrator\My Documents\Visual Studio 2015\Projects\MicroDoc\MicroDoc\obj\Debug\MicroDoc.pdb
+Z:\Users\Administrator\My Documents\Visual Studio 2015\Projects\MicroDoc\MicroDoc\bin\NReco.PdfGenerator.dll

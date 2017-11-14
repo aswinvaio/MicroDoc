@@ -17,7 +17,21 @@ namespace MicroDoc
 
         protected void btnPrint_Click(object sender, EventArgs e)
         {
-            Response.Redirect("Sample.html");
+            //Response.Redirect("Sample.html");
+            //string html = string.Format("<html><body bgcolor='blue'>dddd</body></html>");
+            //GeneratePDF(html);
+        }
+
+        public void GeneratePDF(string html)
+        {
+            
+            var pdfBytes = (new NReco.PdfGenerator.HtmlToPdfConverter()).GeneratePdf(html);
+
+            string filename = "microdoc.pdf";
+            Response.ContentType = "application/octet-stream";
+            Response.AppendHeader("Content-Disposition", "attachment;filename=" + filename);
+            Response.OutputStream.Write(pdfBytes, 0, pdfBytes.Length);
+            Response.Flush();
         }
     }
 }
