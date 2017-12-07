@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroDocWeb", "MicroDocWeb\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroDoc", "MicroDoc\MicroDoc.csproj", "{EA996A6C-45FC-4998-B51B-EBF3A070A7F8}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MicroDocDB", "MicroDocDB\MicroDocDB.sqlproj", "{59648405-FC83-4B41-8080-7137C40484E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,12 @@ Global
 		{EA996A6C-45FC-4998-B51B-EBF3A070A7F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA996A6C-45FC-4998-B51B-EBF3A070A7F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA996A6C-45FC-4998-B51B-EBF3A070A7F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59648405-FC83-4B41-8080-7137C40484E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59648405-FC83-4B41-8080-7137C40484E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59648405-FC83-4B41-8080-7137C40484E8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{59648405-FC83-4B41-8080-7137C40484E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59648405-FC83-4B41-8080-7137C40484E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59648405-FC83-4B41-8080-7137C40484E8}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
