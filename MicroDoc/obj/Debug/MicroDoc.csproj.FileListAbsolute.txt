@@ -1,5 +1,0 @@
-Z:\Users\Administrator\My Documents\Visual Studio 2015\Projects\MicroDoc\MicroDoc\bin\Debug\MicroDoc.dll
-Z:\Users\Administrator\My Documents\Visual Studio 2015\Projects\MicroDoc\MicroDoc\bin\Debug\MicroDoc.pdb
-Z:\Users\Administrator\My Documents\Visual Studio 2015\Projects\MicroDoc\MicroDoc\obj\Debug\MicroDoc.dll
-Z:\Users\Administrator\My Documents\Visual Studio 2015\Projects\MicroDoc\MicroDoc\obj\Debug\MicroDoc.pdb
-Z:\Users\Administrator\My Documents\Visual Studio 2015\Projects\MicroDoc\MicroDoc\obj\Debug\MicroDoc.csprojResolveAssemblyReference.cache
